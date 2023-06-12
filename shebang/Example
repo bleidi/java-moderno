@@ -1,0 +1,7 @@
+#!/home/rafael.oliveira/.asdf/installs/java/adoptopenjdk-11.0.19+7/bin/java --source 11
+public class Example {
+    
+    public static void main(String[] args) {
+        System.out.println("Exemplo de Script #2");
+    }
+}
