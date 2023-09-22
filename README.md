@@ -1,4 +1,4 @@
-# CPGoiás 3
+# Java Moderno
 
 Conteúdo da palestra [Java Moderno](https://app.4.events/palestrante-link-2683-c18443), do palco Comunidades: Join Community, na Campus Party Goiás de 2023.
 
