@@ -2,6 +2,6 @@
 public class Example {
     
     public static void main(String[] args) {
-        System.out.println("Exemplo de Script #2");
+        System.out.println("Exemplo de Script Join COmmunity");
     }
 }
